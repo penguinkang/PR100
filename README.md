@@ -1,4 +1,4 @@
-# PR100 Machine Learning Paper Review
+# Machine Learning Paper Review
 
 A Track record (paper list) of PR100 Machine Learning Paper Review Group
 
