@@ -28,3 +28,8 @@ A Track record (paper list) of PR100 Machine Learning Paper Review Group
 - - entropy minimization; consistency regularization; generic regularization
 - Date of review: 06/21/2021
 - Reviewer: Jay Kang
+
+
+## References
+
+- https://github.com/EdisonLeeeee/Awesome-Masked-Autoencoders
